@@ -24,7 +24,7 @@ _List the steps to reproduce the issue._
 
 _Attach or paste appropriate logs and error messages to help us debug more easily._
 
-## Name and Version Information
+## Name and version information
 
 _Specify the name and version of the following components:_
 
