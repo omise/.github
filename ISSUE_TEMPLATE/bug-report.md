@@ -28,7 +28,7 @@ _Attach or paste appropriate logs and error messages to help us debug more easil
 
 _Specify the name and version of the following components:_
 
-_* Development Environment (For example, XCode version 12.0)._
+_* Development Environment (for example, XCode version 12.0)._
 
 _* SDK (For example, Omise-iOS version 4.25)._
 
