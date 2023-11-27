@@ -36,6 +36,6 @@ _* Package Manager (for example, SwiftPM version 0.6.0)._
 
 _* Operating System (for example, iOS version 17.1.1)._
 
-_* Browser, if it is a web issue (For example, Firefox version 119.0.1)._
+_* Browser, if it is a web issue (for example, Firefox version 119.0.1)._
 
 Detailed information helps us troubleshoot and resolve your problems faster.
