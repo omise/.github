@@ -19,7 +19,6 @@ _Describe what actually happened._
 
 _List the steps to reproduce the issue._
 
-
 ## Logs/error messages
 
 _Attach or paste appropriate logs and error messages to help us debug more easily._
