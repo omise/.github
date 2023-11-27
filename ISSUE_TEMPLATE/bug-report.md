@@ -30,7 +30,7 @@ _Specify the name and version of the following components:_
 
 _* Development Environment (for example, XCode version 12.0)._
 
-_* SDK (For example, Omise-iOS version 4.25)._
+_* SDK (for example, Omise-iOS version 4.25)._
 
 _* Package Manager (For example, SwiftPM version 0.6.0)._
 
