@@ -22,7 +22,7 @@ _List the steps to reproduce the issue._
 
 ## Logs/Error messages
 
-_Attach or paste appropriate logs and error messages to help us debug better._
+_Attach or paste appropriate logs and error messages to help us debug more easily._
 
 ## Name and Version Information
 
