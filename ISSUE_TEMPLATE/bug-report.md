@@ -34,7 +34,7 @@ _* SDK (for example, Omise-iOS version 4.25)._
 
 _* Package Manager (for example, SwiftPM version 0.6.0)._
 
-_* Operating System (For example, iOS version 17.1.1)._
+_* Operating System (for example, iOS version 17.1.1)._
 
 _* Browser, if it is a web issue (For example, Firefox version 119.0.1)._
 
