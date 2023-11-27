@@ -32,7 +32,7 @@ _* Development Environment (for example, XCode version 12.0)._
 
 _* SDK (for example, Omise-iOS version 4.25)._
 
-_* Package Manager (For example, SwiftPM version 0.6.0)._
+_* Package Manager (for example, SwiftPM version 0.6.0)._
 
 _* Operating System (For example, iOS version 17.1.1)._
 
