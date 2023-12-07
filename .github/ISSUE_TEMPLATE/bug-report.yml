@@ -10,14 +10,14 @@ body:
     id: expectation
     attributes:
       label: Expected behavior
-      description: A clear and concise description of what were your expectations.
+      description: Provide a clear and concise description of what you expected to happen.
     validations:
       required: true
   - type: textarea
     id: what-happened
     attributes:
       label: Actual behavior
-      description: A clear and concise description of what actually happened.
+      description: Provide a clear and concise description of what actually happened.
     validations:
       required: true
   - type: textarea
@@ -33,7 +33,14 @@ body:
       label: Logs
       description: Add any logs/error messages to help debug the issue.
     validations:
-      required: true
+      required: false
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: Screenshots
+      description: Upload any screenshots to help debug the issue.
+    validations:
+      required: false    
   - type: textarea
     id: versions
     attributes:
