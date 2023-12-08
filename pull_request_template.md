@@ -41,6 +41,6 @@ In the context of < use case / user story >, facing < concern > we decided for <
 
 <!-- Describe the manual steps, if any, that need to be done before or after the deployment. Else, remove this section. -->
  
-## Rollback Procedure
+## Rollback procedure
 
 <!-- Describe the Rollback procedure. If none/default, update with `default rollback procedure` -->
