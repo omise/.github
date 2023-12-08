@@ -33,7 +33,7 @@ In the context of < use case / user story >, facing < concern > we decided for <
   - ***When / Conditions to remove feature flag***
   - ***Please add label "FeatureFlag" to feature flag removal story***
  
-## Business Impact (if any)
+## Business impact (if any)
 
 <!-- Describe the business impact if any. For example, rolling out the change will involve a short downtime of an hour. Else, remove this section -->
   
