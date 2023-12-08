@@ -16,7 +16,7 @@
 
 ### Related Links:
 
-<!-- Provide related PRs, if any. Else, remove this section. -->
+<!-- Provide links related issues and PRs, if any. Else, remove this section. -->
 
 - PR: <github-PR-id>
 
