@@ -37,7 +37,7 @@ In the context of < use case / user story >, facing < concern > we decided for <
 
 <!-- Describe the business impact if any. For example, rolling out the change will involve a short downtime of an hour. Else, remove this section -->
   
-## Pre or Post deployment steps (if any)
+## Pre- or post-deployment steps (if any)
 
 <!-- Describe the manual steps, if any, that need to be done before or after the deployment. Else, remove this section. -->
  
