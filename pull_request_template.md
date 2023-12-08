@@ -12,7 +12,7 @@
 
 ### Documentation (if any)
 
-<!-- Link to the updated Confluence documentation, if any. Else, remove this section. -->
+<!-- Link to the updated documentation, if any. Else, remove this section. -->
 
 ### Related Links:
 
