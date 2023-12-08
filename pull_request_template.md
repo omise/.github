@@ -6,7 +6,7 @@
 
 * **Optional**: Update any additional information in the `More Information` section, as appropriate.
 
-### More Information (if any)  
+### More information (if any)  
 
 <!-- If there isn't additional information to be added, remove this section. -->
 
@@ -14,11 +14,11 @@
 
 <!-- Link to the updated documentation, if any. Else, remove this section. -->
 
-### Related Links:
+### Related links:
 
-<!-- Provide links related issues and PRs, if any. Else, remove this section. -->
+<!-- Provide links, related issues, and PRs, if any. Else, remove this section. -->
 
-- PR: <github-PR-id>
+- Issue ID: <github-issue-id>
 
 ## Decision(s)
 
